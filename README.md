@@ -22,7 +22,8 @@
 ### 2016年前端会议纪要
 
   * 会议纪要`【NEW】`
-      * [会议纪要1](https://github.com/zzm1988/md/blob/master/femeeting/20160229.md)
+      * [会议纪要-20160229](https://github.com/zzm1988/md/blob/master/femeeting/20160229.md)
+      * [会议纪要-20160311](https://github.com/zzm1988/md/blob/master/femeeting/20160311.md)
 
 
 ### 2016年前端工作日志记录（停用）
